@@ -18,7 +18,7 @@ Check out the live demo here: [Temp Mail Demo](https://mowhn.github.io/Temp-mail
 - **Tailwind CSS**
 - **Font Awesome**
 - **jQuery**
-- **1SecMail API**: For email generation and fetching
+- **1SecMail API**: For email generation and fetching (the API provider are gone now)
 
 ## How It Works
 1. When you visit the app, a temporary email address is generated.
